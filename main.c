@@ -12,5 +12,6 @@ int qtd;
 printf("Insira a quantidade de ingresso qe deseja comprar: \n");
 scanf("%d", &qtd);
 printf("Quantidade: %d\n", qtd);
+printf("carteira: 50000000000000\n");
 
 }
